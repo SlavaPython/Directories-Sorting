@@ -1,2 +1,2 @@
 # Directories Sorting
- Sort files in directory by extensions to selected directories
+ Sort files in directory to selected directories by extensions 
